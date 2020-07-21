@@ -1,7 +1,7 @@
 ![titanic](images/TML.png)
 # Titanic: Machine Learning from Disaster
 
-Usando Machine Learning para crear un modelo que prediga que pasageros sobrevivieron al naufragio del Titanic.
+Usando Machine Learning para crear un modelo que prediga que pasajeros sobrevivieron al naufragio del Titanic.
 
 El reto consiste en crear un modelo predictivo que responda a la pregunta **¿Qué tipo de personas tenían más probabilidades de sobrevivir ?** usando los datos de los pasajeros (nombre, edad, genero ..)
 
